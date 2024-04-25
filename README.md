@@ -6,7 +6,7 @@ This project aims to analyze supply and demand trends around holidays using e-co
 
 _**Project Overview**_
 
-_Extract Data:_ We combined data from grocery_sales table and extra_data.parquet file to create a merged DataFrame named merged_df.
+_Extract Data:_ Combined data from grocery_sales table and extra_data.parquet file to create a merged DataFrame named merged_df.
 
 _Transform Data:_ The transform() function filled missing values, added a "Month" column, filtered sales over $10,000, and dropped unnecessary columns to create clean_data.
 
