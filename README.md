@@ -2,7 +2,7 @@
 
 _**Introduction**_
 
-This project aims to analyze supply and demand trends around holidays using e-commerce data. We built a data pipeline to extract, transform, aggregate, and load data from two main sources: a PostgreSQL database containing grocery_sales table and a extra_data.parquet file with complementary information.
+This project aims to analyze supply and demand trends around holidays using e-commerce data.Built a data pipeline to extract, transform, aggregate, and load data from two main sources: a PostgreSQL database containing grocery_sales table and a extra_data.parquet file with complementary information.
 
 _**Project Overview**_
 
